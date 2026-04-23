@@ -12,7 +12,7 @@
 - 🌏 website: https://foreverwl.top/
 - 📮 email: 168@foreverwl.top
 - 🖋 Writer at [Typora](https://Typora.io/)
-- 🫥 Bedroom musician / 🎸Guitarist 🎸/ 🎵Music creator 🎵
+- 🫥 Bedroom musician / 🎸Guitarist
 - 💼 Security Researcher / Vulnerability Hunter
 
 
